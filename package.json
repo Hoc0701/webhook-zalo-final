@@ -1,0 +1,5 @@
+{
+  "name": "webhook-zalo-final",
+  "version": "1.0.0",
+  "description": "Webhook proxy for Zalo OA integration"
+}
